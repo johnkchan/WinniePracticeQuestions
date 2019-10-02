@@ -1,4 +1,4 @@
-# Function should print staircase based on argument height
+# Function should print staircase based on argument, height
 # reverse_staircase(4) would print
 #    +
 #   ++

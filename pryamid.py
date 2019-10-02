@@ -1,4 +1,4 @@
-# Function should print staircase based on argument, height
+# Function should print pyramid based on argument, height
 # pyramid(4) would print
 #    ++
 #   ++++

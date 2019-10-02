@@ -1,4 +1,4 @@
-# Function should return floor that user ends up on if they following directions provided in argument, arr
+# Function should return floor that user ends up on if they're following directions provided in argument, arr
 # User starts off on floor 0
 # + indicates to ascend one floor
 # - indicates to descen on floor

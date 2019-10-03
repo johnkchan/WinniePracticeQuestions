@@ -7,7 +7,7 @@
 directions = "+-+-++--+-++-+-+-+-++++-++----++-+"
 
 
-def floors(arr):
+def floors(str):
    # TODO Implement this function
     return
 

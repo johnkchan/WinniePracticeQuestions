@@ -10,3 +10,5 @@ directions = "+-+-++--+-++-+-+-+-++++-++----++-+"
 def floors(arr):
    # TODO Implement this function
     return
+
+# Bonus: Find the lowest floor you descended

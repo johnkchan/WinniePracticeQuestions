@@ -1,5 +1,5 @@
 # Function should return true if argument, num is prime and false if not prime
-# pyramid(5) would print
+# prime_check(5) would print
 # true
 
 

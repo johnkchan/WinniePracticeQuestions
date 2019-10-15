@@ -1,5 +1,8 @@
 # Function should print calendar based on arguments, startDate and dates
-# calendar("tuesday", 28) should print
+# Assume: 0 < dates < 31
+# Assume startDate will be either "sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"
+
+# calendar("wednesday", 28) should print
 # S	M	T	W	T	F	S
 # 			   1	2	3	4
 # 5	6	7	8	9	10	11

@@ -7,8 +7,8 @@
 directions = "+-+-++--+-++-+-+-+-++++-++----++-+"
 
 
-def floors(str):
+def floors(directions: string) -> int:
    # TODO Implement this function
     return
 
-# Bonus: Find the lowest floor you descended
+# Bonus: Find the lowest floor you descended to

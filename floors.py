@@ -12,7 +12,7 @@
 directions = "+-+-++--+-++-+-+-+-++++-++----++-+"
 
 class Solution:
-   def find_floor(self, directions: str) -> int:
+   def find_final_floor(self, directions: str) -> int:
       # TODO Implement this function
        return
 
@@ -22,4 +22,4 @@ class Solution:
 
 
 solution = Solution()
-print(solution.find_floor())
+print(solution.find_final_floor())

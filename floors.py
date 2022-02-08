@@ -2,8 +2,8 @@
 
 # Explanation:
 # User starts off on floor 0
-# + indicates to ascend one floor
-# - indicates to descend one floor
+# + indicates for the user to ascend one floor
+# - indicates for the user to descend one floor
 
 # Example:
 # floors("++-+") will return floor 2

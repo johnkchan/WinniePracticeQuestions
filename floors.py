@@ -11,9 +11,15 @@
 
 directions = "+-+-++--+-++-+-+-+-++++-++----++-+"
 
+class Solution:
+   def find_floor(self, directions: str) -> int:
+      # TODO Implement this function
+       return
 
-def floors(directions: str) -> int:
-   # TODO Implement this function
-    return
+   def find_lowest_floor(self, directions: str) -> int:
+      # Bonus: Find the lowest floor you descended to
+      return
 
-# Bonus: Find the lowest floor you descended to
+
+solution = Solution()
+print(solution.find_floor())

@@ -7,7 +7,7 @@
 directions = "+-+-++--+-++-+-+-+-++++-++----++-+"
 
 
-def floors(directions: string) -> int:
+def floors(directions: str) -> int:
    # TODO Implement this function
     return
 

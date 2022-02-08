@@ -6,6 +6,6 @@
 # ++++
 
 
-def staircase(height):
+def staircase(height: int):
     # TODO: Implement this function
-    return
+    pass

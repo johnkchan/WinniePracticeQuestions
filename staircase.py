@@ -5,7 +5,11 @@
 # +++
 # ++++
 
+class Solution:
+    def print_staircase(self, height: int) -> None:
+        # TODO: Implement this function
+        pass
 
-def staircase(height: int) -> None:
-    # TODO: Implement this function
-    pass
+    
+solution = Solution()
+solution.print_staircase(4)

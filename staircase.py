@@ -1,5 +1,5 @@
-# Function should print staircase based on argument, height
-# staircase(4) would print
+# Function should print a staircase based on the integer argument of height
+# Example: staircase(4) would print
 # +
 # ++
 # +++
